@@ -1,0 +1,13 @@
+{
+   "name": "PreMiD",
+   "description": "Allows you to serve PreMiD activities right into your client, only when Discord is open to avoid any performance impact.",
+   "version": "1.0.0",
+   "authors": [
+      {
+         "name": "eternal",
+         "id": "263689920210534400"
+      }
+   ],
+   "main": "dist",
+   "id": "eternal.premid"
+}
